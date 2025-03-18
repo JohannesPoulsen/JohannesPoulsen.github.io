@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
+
+[Link to all notebooks](./pages).
+
+On this website you have access to all notebooks that are part of the course. You can find them by clicking the link above.
+
