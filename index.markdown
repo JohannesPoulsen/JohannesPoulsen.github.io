@@ -48,6 +48,3 @@ In conclusion, the analysis of the San Francisco Police Department Crime Dataset
 [^3]: https://stopthedrugwar.org/chronicle/2011/oct/31/sf_de_facto_drug_decriminalizati
 [^4]: https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths/
 [^5]: https://sfpublicworks.org/taraval
-
-
-[Link to all notebooks](./pages).
