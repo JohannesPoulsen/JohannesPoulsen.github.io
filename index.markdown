@@ -15,7 +15,11 @@ To shows this we have made three different visualizations:
 
 ## Bar chart
 The bar chart below illustrates the annual number of reported drug and narcotic-related crimes in San Francisco from 2004 to 2024.
-![Drug crimes per year](pages/drug_crimes.png)
+<figure>
+<img src= "pages/drug_crimes.png">
+<figcaption> <strong> Figure 1: </strong> Bar chart showing number of drug/narcotic crimes per year in San Francisco from 2004 to 2024 </figcaption>
+</figure>
+
 We can see that the number of drug-related crimes peaked in 2009 with nearly 12,000 cases. Since then, there's been a big drop. In recent years, the number has stayed around 4,000. 
 
 One reason for this drop could be a change in the law. In 2011, California made marijuana possession a less serious offense, which meant people were no longer arrested for carrying small amounts. This change led to a big drop in drug arrests across the state about 86% fewer marijuana arrests that year.[^1]
@@ -25,12 +29,18 @@ According to **The San Francisco Standard**, San Francisco’s approach to drug 
 
 ## Heatmap video
 Below is a heatmap showing the development in drug crime counts in San Francisco. 
+<figure>
 <iframe src="pages/sf_heatmap_with_time.html" width="800" height="600"></iframe>
+<figcaption> <strong> Figure 2: </strong> Heatmap video showing the change in drug/narcotic crime counts in San Francisco from 2004 to 2024 </figcaption>
+</figure>
 If you compare the early years, like 2009, with later years like 2018 in the Tenderloin district, you will notice the red zones (which show more activity) fade out. This supports what we saw in the bar chart before. 
 
 ## Boteh interactive chart
 The Boteh chart below gives you the opportunity to see drug crime counts in the different districts of San Francisco from 2004 to 2024. 
+<figure> 
 <iframe src="pages/barplot.html" width="800" height="600"></iframe>
+<figcaption> <strong> Figure 3: </strong> Boteh chart of drug crimes in different districts of San Francisco from 2004 to 2014 </figcaption>
+</figure>
 You can click on a district to focus on it. This makes it easy to compare drug crime across neighborhoods and see how things have changed over time. For example, if you select **Taraval** and **Tenderloin**, you’ll see that **Taraval** had more drug crimes before 2018, but after that, **Tenderloin** had higher numbers.
 
 ## Discussion
