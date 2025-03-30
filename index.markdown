@@ -4,7 +4,7 @@ layout: default
 # Assignment 2
 
 ## Introduction to the dataset
-This datastory explores the patterns in crime across San Francisco over a period of 10 years. This uses **the San Francisco Police Department Crime Dataset**, that contains detailed reports of incidents from 2014 to 2024. The dataset includes information such as crime categories, coordinates (latitude/longitude), districts and more. 
+This datastory explores the patterns in crime across San Francisco over a period of 20 years. This uses **the San Francisco Police Department Crime Dataset**, that contains detailed reports of incidents from 2004 to 2024. The dataset includes information such as crime categories, coordinates (latitude/longitude), districts and more. 
 
 By analysis of this data, we want to cover how crime patterns have changed over time. In particular, this datastory will cover the patterns of crimes in the **drug/narcotic** category. It shows how drug-related crime has changed over time, where it happens most in the city, and how it differs between neighborhoods.
 
@@ -35,11 +35,11 @@ Below is a heatmap showing the development in drug crime counts in San Francisco
 </figure>
 If you compare the early years, like 2009, with later years like 2018 in the Tenderloin district, you will notice the red zones (which show more activity) fade out. This supports what we saw in the bar chart before. 
 
-## Boteh interactive chart
-The Boteh chart below gives you the opportunity to see drug crime counts in the different districts of San Francisco from 2004 to 2024. 
+## Bokeh interactive chart
+The Bokeh chart below gives you the opportunity to see drug crime counts in the different districts of San Francisco from 2004 to 2024. 
 <figure> 
 <iframe src="pages/barplot.html" width="800" height="600"></iframe>
-<figcaption> <strong> Figure 3: </strong> Boteh chart of drug crimes in different districts of San Francisco from 2004 to 2014 </figcaption>
+<figcaption> <strong> Figure 3: </strong> Bokeh chart of drug crimes in different districts of San Francisco from 2004 to 2014 </figcaption>
 </figure>
 You can click on a district to focus on it. This makes it easy to compare drug crime across neighborhoods and see how things have changed over time. For example, if you select **Taraval** and **Tenderloin**, you’ll see that **Taraval** had more drug crimes before 2018, but after that, **Tenderloin** had higher numbers.
 
